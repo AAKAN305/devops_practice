@@ -1,1 +1,1 @@
-my first DevOps Git project
+My first devops git project
